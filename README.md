@@ -1,7 +1,7 @@
 ### Bienvenue sur mon profil ! 👋
 
 ## Qui suis-je ?
-Je suis un étudiant en deuxième année de BUT Informatique à l'IUT du Havre. Passionné par le domaine de l'informatique, j'ai un intérêt particulier pour le développement Front-end.
+Je suis un étudiant en trosième année de BUT Informatique à l'IUT du Havre. Passionné par le domaine de l'informatique, j'ai un intérêt particulier pour le développement web.
 
 ### Compétences techniques
 - Langages de programmation : Java, SQL, HTML/CSS, PHP, C
