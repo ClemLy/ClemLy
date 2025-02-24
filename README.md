@@ -4,10 +4,12 @@
 Je suis un étudiant en trosième année de BUT Informatique à l'IUT du Havre. Passionné par le domaine de l'informatique, j'ai un intérêt particulier pour le développement web.
 
 ### Compétences techniques
-- Langages de programmation : Java, SQL, HTML/CSS, PHP, C
+- Langages de programmation : Java, SQL, HTML/CSS, PHP, JavaScript, C
 - Développement Front-end : HTML, CSS
-- Développement Back-end : PHP
+- Développement Full-Stack : PHP, JavaScript
 - Bases de données : SQL
+- Framework : Symfony, CodeIgniter
+- CMS : WordPress
 
 ## Contact
 N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez discuter de projets potentiels. Vous pouvez me joindre par e-mail à l'adresse suivante : [ly.clementin@gmail.com](mailto:ly.clementin@gmail.com), ou bien sur mon [LinkedIN !](https://www.linkedin.com/in/cl%C3%A9mentin-ly/)
