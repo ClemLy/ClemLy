@@ -8,7 +8,7 @@ Je suis un étudiant en trosième année de BUT Informatique à l'IUT du Havre. 
 - Développement Front-end : HTML, CSS
 - Développement Full-Stack : PHP, JavaScript
 - Bases de données : SQL
-- Framework : Symfony, CodeIgniter
+- Framework : Symfony, CodeIgniter, React, ExpressJS
 - CMS : WordPress
 
 ## Contact
