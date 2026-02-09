@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil ! 👋
 
-### Développeur Full-Stack & Expert Éco-conception
+### Développeur Full-Stack | Orienté Éco-conception & Performance
 *En Mastère chez Paris YNOV Campus | Alternant chez Liziweb*
 
 ---
