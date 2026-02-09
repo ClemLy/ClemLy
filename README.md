@@ -8,7 +8,7 @@
 ## À propos de moi
 Développeur Full-Stack passionné par l'alliance entre **technique**, **performance** et **éthique numérique**. Fort d'une base solide acquise en BUT Informatique à l'IUT du Havre et d'une expérience concrète de **18 mois au sein de l'agence Liziweb**, je transforme des défis complexes en expériences utilisateurs fluides et responsables.
 
-- 🌍 **Engagement** : Certifié en **éco-conception par l'INR**.
+- 🌍 **Engagement** : Certifié en **éco-responsabilité par l'INR**.
 - 🏆 **Événement** : Présentation de solutions innovantes lors de **VivaTech 2025**.
 - 🛠️ **Spécialité** : Création de solutions WordPress sur mesure et développement de plugins PHP avancés à partir de maquettes Figma.
 
