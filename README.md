@@ -35,7 +35,7 @@ Développeur Full-Stack passionné par l'alliance entre **technique**, **perform
 ---
 
 ## Projets & Expériences
-- **Liziweb** : Développement de plugins PHP complexes, intégration pixel-perfect depuis Figma et maintenance applicative.
+- **Liziweb** : Développement de plugins PHP complexes, intégration web depuis Figma et maintenance applicative.
 - **Eco-Portfolio** : Développement d'un portfolio haute performance sous React 19 optimisé pour une empreinte carbone minimale.
 - **VivaTech 2025** : Conception et présentation d'une solution innovante.
 
