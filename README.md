@@ -18,8 +18,6 @@ Je m'intéresse en particulier aux architectures headless et à l'éco-conceptio
 
 ![Graphique de contributions GitHub](https://ghchart.rshah.org/9E4E47/ClemLy)
 
-![Top langages](./profile/top-langs.svg)
-
 ---
 
 **[Voir mon portfolio →](https://clementin-portfolio.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/cl%C3%A9mentin-ly/) · [ly.clementin@gmail.com](mailto:ly.clementin@gmail.com)
