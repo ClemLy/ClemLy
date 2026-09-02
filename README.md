@@ -18,7 +18,7 @@ Je m'intéresse en particulier aux architectures headless et à l'éco-conceptio
 
 ![Graphique de contributions GitHub](https://ghchart.rshah.org/9E4E47/ClemLy)
 
-![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClemLy&layout=compact&hide_border=true&bg_color=00000000&title_color=9E4E47&text_color=DCC5B2&langs_count=8)
+![Top langages](./profile/top-langs.svg)
 
 ---
 
