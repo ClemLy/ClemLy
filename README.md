@@ -1,52 +1,27 @@
-# Bienvenue sur mon profil ! 👋
+<div align="center">
 
-### Développeur Full-Stack | Orienté Éco-conception & Performance
-*En Mastère chez Paris YNOV Campus | Alternant chez Liziweb*
+![Bannière](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:241610,100:9E4E47&text=Clémentin%20Ly&fontSize=50&fontColor=FAF7F3&fontAlignY=30&desc=Développeur%20Full-Stack&descAlignY=46&descSize=20&descColor=DCC5B2&animation=fadeIn)
 
----
+</div>
 
-## À propos de moi
-Développeur Full-Stack passionné par l'alliance entre **technique**, **performance** et **éthique numérique**. Fort d'une base solide acquise en BUT Informatique à l'IUT du Havre et d'une expérience concrète de **18 mois au sein de l'agence Liziweb**, je transforme des défis complexes en expériences utilisateurs fluides et responsables.
+Développeur Full-Stack, je conçois des interfaces rapides, accessibles et fidèles aux maquettes. Formé à l'IUT du Havre puis en Mastère à Paris Ynov Campus, je travaille aujourd'hui chez Agence Kurtis sur des projets web.
 
-- 🌍 **Engagement** : Certifié en **éco-responsabilité par l'INR**.
-- 🏆 **Événement** : Présentation de solutions innovantes lors de **VivaTech 2025**.
-- 🛠️ **Spécialité** : Création de solutions WordPress sur mesure et développement de plugins PHP avancés à partir de maquettes Figma.
+Je m'intéresse en particulier aux architectures headless et à l'éco-conception : certifié par l'INR sur ce sujet, j'ai présenté mon travail à VivaTech 2025.
+
+<div align="center">
 
 ---
 
-## Stack Technique
-
-### Front-End & Design
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Back-End & CMS
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Autres
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,laravel,php,wordpress,figma,git&theme=dark)
 
 ---
 
-## Projets & Expériences
-- **Liziweb** : Développement de plugins PHP complexes, intégration web depuis Figma et maintenance applicative.
-- **Eco-Portfolio** : Développement d'un portfolio haute performance sous React 19 optimisé pour une empreinte carbone minimale.
-- **VivaTech 2025** : Conception et présentation d'une solution innovante.
+![Graphique de contributions GitHub](https://ghchart.rshah.org/9E4E47/ClemLy)
+
+![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClemLy&layout=compact&hide_border=true&bg_color=00000000&title_color=9E4E47&text_color=DCC5B2&langs_count=8)
 
 ---
 
-## Contact
-Je suis toujours ouvert à la collaboration sur des projets stimulants ou à l'apprentissage de nouvelles technologies. Discutons ensemble !
+**[Voir mon portfolio →](https://clementin-portfolio.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/cl%C3%A9mentin-ly/) · [ly.clementin@gmail.com](mailto:ly.clementin@gmail.com)
 
-- Email : [ly.clementin@gmail.com](mailto:ly.clementin@gmail.com)
-- LinkedIn : [clémentin-ly](https://www.linkedin.com/in/cl%C3%A9mentin-ly/)
-- Portfolio : [Découvrir mon portfolio](https://clementin-portfolio.vercel.app/)
-
----
-*“Transformer des défis techniques complexes en expériences responsables.”*
+</div>
